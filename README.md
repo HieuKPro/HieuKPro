@@ -17,24 +17,3 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
-  ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=for-the-badge&logo=Adobe%20After%20Effects)
-  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
-
-<h3> 📈 &nbsp;My Stats</h3>
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HieuKPro&theme=buefy&show_icons=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuKPro&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=HieuKPro&theme=dark)
-
-</div>
